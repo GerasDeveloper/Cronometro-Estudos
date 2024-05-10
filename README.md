@@ -1,13 +1,21 @@
-#Projeto de Cronômetro para Estudos
+### Projeto de Cronômetro para Estudos em HTML, CSS e JavaScript 
 
-##Tecnologias Utilizadas:##
+Bem-vindo ao nosso projeto de cronômetro para estudos! Desenvolvido com paixão em HTML, CSS e TypeScript, este aplicativo é uma ferramenta essencial para estudantes que desejam maximizar seu tempo de estudo de forma eficaz.
 
-. React: Utilizado como a principal biblioteca para a construção da interface do usuário, fornecendo componentes reutilizáveis e uma arquitetura de desenvolvimento eficiente.
-. TypeScript: Linguagem de programação utilizada para adicionar tipagem estática ao JavaScript, aumentando a robustez e a legibilidade do código.
-. HTML5 e CSS3: Utilizados para estruturação e estilização da aplicação, proporcionando uma experiência visualmente agradável e responsiva.
+##
 
-##Funcionalidades Principais:##
+### Funcionalidades Principal:
+  - Contagem Regressiva
+##
 
-1- Contagem Regressiva e Progressiva: O cronômetro oferece opções para contagem regressiva e progressiva, permitindo aos usuários personalizar a experiência de estudo de acordo com suas preferências.
-2- Configurações Personalizadas: Os usuários podem personalizar o tempo de estudo, o tempo de pausa e o número de ciclos de estudo conforme suas necessidades individuais.
+### Tecnologias Utilizadas::
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Geras-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Geras-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Geras-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Geras-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
 
